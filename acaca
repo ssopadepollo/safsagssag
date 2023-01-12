@@ -15,6 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/farmpes/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/comds/main/kick", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/noinvisible/main/lool", true))()
 end
+end
 if not v then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/safafsafs/main/asdsasa", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/kick/main/kid", true))()
